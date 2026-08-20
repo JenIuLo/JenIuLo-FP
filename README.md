@@ -9,7 +9,7 @@
 
 ```
 Robert-FP/
-├── articles/          # 原創文章（技術、科學、人生思考）
+├── articles/          # 原創文章（技術、科學、人生思考...等）
 ├── ai-talks/          # 與 AI 的深度對話記錄
 └── README.md          # 本文件
 ```
@@ -64,8 +64,8 @@ Robert-FP/
 ## 📬 聯繫方式
 
 - GitHub: [robertluo77](https://github.com/robertluo77)
-- 個人網站: [coming soon]
-- Email: [你的信箱]
+- 個人網站: [linkedin](https://www.linkedin.com/in/仁佑-羅-630580243)
+- Email: jeniuluo@gmail.com
 
 ---
 
