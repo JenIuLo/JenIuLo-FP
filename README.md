@@ -66,7 +66,8 @@ Robert-FP/
 ## 📬 聯繫方式
 
 - GitHub: [robertluo77](https://github.com/robertluo77)
-- 個人網站: [linkedin](https://www.linkedin.com/in/仁佑-羅-630580243)
+- 個人網站: [blog](https://jeniuluo.blogspot.com/)
+- linkedin: [linkedin](https://www.linkedin.com/in/仁佑-羅-630580243)
 - Email: jeniuluo@gmail.com
 
 ---
