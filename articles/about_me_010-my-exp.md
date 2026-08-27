@@ -4,8 +4,7 @@
 - 臺灣省 新竹縣 竹北市
 - 2000/3 役畢
 - jeniuluo@gmail.com
-- google scholar: 搜尋 'Jen-iu lo'
-  - https://scholar.google.com/citations?hl=zh-TW&user=u1CK1FkAAAAJ
+- google scholar: 搜尋 'Jen-iu lo'. https://scholar.google.com/citations?hl=zh-TW&user=u1CK1FkAAAAJ
 - google blog: https://jeniuluo.blogspot.com/
 - github: https://github.com/robertluo77/Robert-FP
 - linkedin: https://www.linkedin.com/in/仁佑-羅-630580243
