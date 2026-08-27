@@ -11,10 +11,8 @@
 Robert-FP/
 ├── articles/                    # 原創文章（技術、科學、人生思考...等）
 ├── ai-talks/                    # 與 AI 的深度對話記錄
-├── CV-羅仁佑-260810.pdf          # 我的基本資料
-├── CV-Designs_...-羅仁佑....pdf  # 機構設計
-├── CV-paper-google-A3-羅仁佑.pdf # google 論文搜集
-└── README.md                     # 本文件
+├── PDFs/                        # 整理好的履歷和成果
+└── README.md                    # 本文件
 ```
 
 ---
