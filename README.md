@@ -1,29 +1,3 @@
-<style>
-  @media (prefers-color-scheme: dark) {
-    body {
-      background-color: #0d1117 !important;
-      color: #c9d1d9 !important;
-    }
-    a {
-      color: #58a6ff !important;
-    }
-    table, tr, td, th {
-      background-color: #161b22 !important;
-      color: #c9d1d9 !important;
-      border-color: #30363d !important;
-    }
-    blockquote {
-      background-color: #161b22 !important;
-      color: #8b949e !important;
-      border-left-color: #30363d !important;
-    }
-  }
-</style>
-
-
-
-
-
 
 # 🌱 羅仁佑 Robert JenIu Lo 的數位花園
 
