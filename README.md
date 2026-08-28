@@ -66,8 +66,9 @@
 
 ## 🔥 獨創 --- 🌏用AI看人生
 
-- [💎gemini   分析💎](https://share.gemini.google/LkokakNedjrF)
 - [💎deepseek 分析💎](https://chat.deepseek.com/share/b7qz9ibl443sz0q7wp)
+- [💎gemini   分析💎](https://share.gemini.google/LkokakNedjrF)
+
 ---
 
 
