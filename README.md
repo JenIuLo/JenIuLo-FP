@@ -1,8 +1,10 @@
 # 🌱 羅仁佑 Robert JenIu Lo 的數位花園
 
-[![GitHub](https://img.shields.io/badge/GitHub-JenIuLo-blue)](https://github.com/JenIuLo)
-[![blog](https://img.shields.io/badge/Blog-Jen-blue)](https://jeniulo.blogspot.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-JenIuLo-blue)](https://github.com/JenIuLo/JenIuLo-FP)
+[![學術](https://img.shields.io/badge/學術-JenIu%20Lo-blue)](https://scholar.google.com/citations?user=u1CK1FkAAAAJ)
+[![blog](https://img.shields.io/badge/Blog-JenIuLo-blue)](https://jeniulo.blogspot.com/)
 [![linkedin](https://img.shields.io/badge/in-Linkedin-blue)](https://www.linkedin.com/in/仁佑-羅-630580243)
+
 [![mail](https://img.shields.io/badge/Email-JenIuLuo-orange)](mailto:jeniuluo@gmail.com)
 [![學歷](https://img.shields.io/badge/學歷-Ph.D._物理-green)](#)
 [![經歷](https://img.shields.io/badge/經歷-20%2B_年_R%26D-green)](#)
@@ -159,8 +161,9 @@ Robert-FP/
 
 ## 📬 聯繫方式
 
-[![GitHub](https://img.shields.io/badge/GitHub-JenIuLo-blue)](https://github.com/JenIuLo)
-[![blog](https://img.shields.io/badge/Blog-Jen-blue)](https://jeniulo.blogspot.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-JenIuLo-blue)](https://github.com/JenIuLo/JenIuLo-FP)
+[![學術](https://img.shields.io/badge/學術-JenIu%20Lo-blue)](https://scholar.google.com/citations?user=u1CK1FkAAAAJ)
+[![blog](https://img.shields.io/badge/Blog-JenIuLo-blue)](https://jeniulo.blogspot.com/)
 [![linkedin](https://img.shields.io/badge/in-Linkedin-blue)](https://www.linkedin.com/in/仁佑-羅-630580243)
 [![mail](https://img.shields.io/badge/Email-JenIuLuo-orange)](mailto:jeniuluo@gmail.com)
 
