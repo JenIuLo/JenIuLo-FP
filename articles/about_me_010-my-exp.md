@@ -1,26 +1,28 @@
-## 基本資料：
+# 基本資料：
 - 羅仁佑（Robert Jen-Iu Lo（Luo）)，男
 - 1974/5/4
 - 臺灣省 新竹縣 竹北市
 - 2000/3 役畢
 - jeniuluo@gmail.com
 - google scholar: 搜尋 'Jen-iu lo'. https://scholar.google.com/citations?hl=zh-TW&user=u1CK1FkAAAAJ
-- google blog: https://jeniuluo.blogspot.com/
-- github: https://github.com/robertluo77/Robert-FP
+
+- github: https://github.com/JenIuLo/JenIuLo-FP
 - linkedin: https://www.linkedin.com/in/仁佑-羅-630580243
+- google blog: https://jeniulo.blogspot.com/
+
 - 普通大貨車、普通重機車 駕照
 
 
 ## 學歷
-- 武陵高山（畢） 1989/9～1992/6
-- 交大土木（肄） 1992/9～1993/6
-- 台大物理（肄） 1994/9～1998/2
-- 中央大學物理 2001/9～2002/6
+- 武陵高山（畢） 1989/9 ~ 1992/6
+- 交大土木（肄） 1992/9 ~ 1993/6
+- 台大物理（肄） 1994/9 ~ 1998/1
+- 中央大學物理(插大) 2001/9 ~ 2002/6
 - 中央大學碩博（畢） 2002/9～2010/6
 
 
 ## 工作經驗：
-### 經驗一：2010/6~2010/12
+### 經驗一：2010/7~2010/12
 博士後研究
 南加大
 - 科學研究、系統研發整合(具可量測溫度變化之氣態樣的極紫外光之螢光光譜、吸收光譜和激發光譜量測系統)、論文撰寫
