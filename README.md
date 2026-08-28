@@ -6,14 +6,15 @@
 [![linkedin](https://img.shields.io/badge/in-Linkedin-blue)](https://www.linkedin.com/in/仁佑-羅-630580243)
 
 [![mail](https://img.shields.io/badge/Email-JenIuLuo-orange)](mailto:jeniuluo@gmail.com)
-[![學歷](https://img.shields.io/badge/學歷-Ph.D._物理-green)](#)
-[![經歷](https://img.shields.io/badge/經歷-20%2B_年_R%26D-green)](#)
+[![學歷](https://img.shields.io/badge/學歷-Ph.D._物理-green)](#about-me)
+[![AI](https://img.shields.io/badge/AI-定位-green)](#ai-me)
+[![經歷](https://img.shields.io/badge/經歷-20%2B_年_R%26D-green)](PDFs/CV-羅仁佑-260810.pdf)
 
 
 > 這裡存放我的思考沉澱與 AI 協作記錄。  
 > 每一篇文章都經過 Git 時間戳記錨定，確保原創性與創作歷程的完整性。
 ---
-## 📌 關於我（首頁）
+## <a name="about-me"></a>📌 關於我（首頁）
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <!-- 第一列：照片與簡介 -->
@@ -66,7 +67,7 @@
 
 ---
 
-## 🔥 獨創 --- 🌏用AI看人生
+## <a name="ai-me"></a>🔥 獨創 --- 🌏用AI看人生
 
 - [💎deepseek 分析💎](https://chat.deepseek.com/share/b7qz9ibl443sz0q7wp)
 - [💎gemini   分析💎](https://share.gemini.google/LkokakNedjrF)
