@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- 1. 網站標題 (原本 _config.yml 的 title) -->
+  <title>羅仁佑 (Robert Jen-Ju Lo) 的數位花園</title>
+
+  <!-- 2. 網站描述 (原本 _config.yml 的 description) -->
+  <meta name="description" content="羅仁佑 (Robert JenIu Lo, JenIu Lo, Jen Ju Lo, Jen-Iu Lo, JenIu Luo, JenIuLuo, Jen Ju Luo, Jen-Iu Luo, jeniuluo) 的個人數位花園與學術研究記錄。">
+
+  <!-- 3. Google Search Console 驗證碼 (原本 _config.yml 的 google_site_verification) -->
+  <meta name="google-site-verification" content="f7ojW9WhnEzVSt-s-vA9BDlWz6AJmBbohpfZI_m2hJk" />
+
+  <!-- 4. Favicon 圖示 -->
+  <link rel="icon" type="image/png" href="./articles/pics/favicon.png">
+
+  <!-- 5. 樣式與 Markdown 工具 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/github-markdown-css/5.5.1/github-markdown.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    .markdown-body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+    }
+    @media (max-width: 767px) {
+      .markdown-body { padding: 15px; }
+    }
+  </style>
+</head>
+<body class="markdown-body">
+  <div id="content">載入中...</div>
+
+  <script>
+    fetch('./README.md')
+      .then(response => {
+        if (!response.ok) throw new Error('讀取失敗');
+        return response.text();
+      })
+      .then(text => {
+        document.getElementById('content').innerHTML = marked.parse(text);
+      })
+      .catch(err => {
+        document.getElementById('content').innerHTML = '無法載入 README.md 內容';
+      });
+  </script>
+</body>
+</html>
