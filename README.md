@@ -116,9 +116,11 @@ https://chat.deepseek.com/share/sz09j6uupe7gyyycd4
 ## 📂 內容結構
 
 ```
-Robert-FP/
+JenIuLo-FP/
 ├── articles/   # 原創文章（技術、科學、人生思考...等+與 AI 的深度對話記錄）
 ├── PDFs/       # 整理好的履歷和成果
+├── .nojekyll   # 不用jekyll的模板
+├── index.html  # 網頁生成模版
 └── README.md   # 本文件
 ```
 
