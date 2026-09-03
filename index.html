@@ -17,17 +17,32 @@
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
-  <style>
+<style>
     body {
       background-color: #ffffff;
       color: #1f2328;
       transition: background-color 0.3s, color 0.3s;
     }
 
+    /* 預設模式/淺色模式下的連結顏色 (可依需求微調) */
+    .markdown-body a {
+      color: #0969da;
+    }
+
     @media (prefers-color-scheme: dark) {
       body {
         background-color: #0d1117;
         color: #e6edf3;
+      }
+
+      /* 🔥 新增：深色模式下的連結顏色與 hover 效果 */
+      .markdown-body a {
+        color: #58a6ff !important; /* 明亮的淺藍色，確保高對比度 */
+      }
+
+      .markdown-body a:hover {
+        color: #79c0ff !important; /* 滑鼠懸停時更亮的藍色 */
+        text-decoration: underline;
       }
     }
 
@@ -43,6 +58,7 @@
       .markdown-body { padding: 15px; }
     }
   </style>
+  
 </head>
 <body class="markdown-body">
   <div id="content">載入中...</div>
