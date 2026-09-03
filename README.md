@@ -74,8 +74,8 @@
 
 ## <a name="ai-me"></a>🔥 獨創 --- 🌏用AI看人生
 
-💎[deepseek 分析](https://chat.deepseek.com/share/b7qz9ibl443sz0q7wp)💎 
-💎[gemini 分析](https://share.gemini.google/LkokakNedjrF)💎
+💎[deepseek 分析](https://chat.deepseek.com/share/94fy9syfjweycrohtf)💎 
+💎[gemini 分析](https://share.gemini.google/1ETlj4Fl0Pu0)💎
 
 
 這一份是關於 **「非典」** 的我的所有資料，依檔名和類型可分類如下；
