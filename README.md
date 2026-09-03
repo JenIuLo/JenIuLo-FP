@@ -154,7 +154,6 @@ JenIuLo-FP/
 - [雷射相關](https://chat.deepseek.com/share/j3paj7t5s7v8q8vtcp)
 - [面視準備](https://chat.deepseek.com/share/sz09j6uupe7gyyycd4)
 
-每一份對話記錄都保持原始時間戳記，作為數位足跡的完整備份。
 
 ---
 
