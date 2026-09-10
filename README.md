@@ -1,16 +1,7 @@
-
 # 🌱 [羅仁佑 Robert JenIu Lo](https://github.com/JenIuLo/JenIuLo-FP) 的數位花園
 
-[![GitHub](https://img.shields.io/badge/GitHub-JenIuLo-blue)](https://github.com/JenIuLo/JenIuLo-FP)
-[![學術](https://img.shields.io/badge/學術-JenIu%20Lo-blue)](https://scholar.google.com/citations?user=u1CK1FkAAAAJ)
-[![blog](https://img.shields.io/badge/Blog-JenIuLo-blue)](https://jeniulo.blogspot.com/)
-[![linkedin](https://img.shields.io/badge/in-Linkedin-blue)](https://www.linkedin.com/in/仁佑-羅-630580243)
-
-[![mail](https://img.shields.io/badge/Email-JenIuLuo-orange)](mailto:jeniuluo@gmail.com)
-[![學歷](https://img.shields.io/badge/學歷-Ph.D._物理-green)](#about-me)
-[![AI](https://img.shields.io/badge/AI-定位-green)](#ai-me)
-[![經歷](https://img.shields.io/badge/經歷-20%2B_年_R%26D-green)](PDFs/CV-羅仁佑-260810.pdf)
-
+[![GitHub](https://img.shields.io/badge/GitHub-JenIuLo-blue)](https://github.com/JenIuLo/JenIuLo-FP) [![學術](https://img.shields.io/badge/學術-JenIu%20Lo-blue)](https://scholar.google.com/citations?user=u1CK1FkAAAAJ) [![blog](https://img.shields.io/badge/Blog-JenIuLo-blue)](https://jeniulo.blogspot.com/) [![linkedin](https://img.shields.io/badge/in-Linkedin-blue)](https://www.linkedin.com/in/仁佑-羅-630580243)  
+[![mail](https://img.shields.io/badge/Email-JenIuLuo-orange)](mailto:jeniuluo@gmail.com) [![學歷](https://img.shields.io/badge/學歷-Ph.D._物理-green)](#about-me) [![AI](https://img.shields.io/badge/AI-定位-green)](#ai-me) [![經歷](https://img.shields.io/badge/經歷-20%2B_年_R%26D-green)](PDFs/CV-羅仁佑-260810.pdf)
 
 > AI既生，我便用之。用AI看人生，既全且深；厚底無偽，盡透人生  
 
@@ -67,7 +58,6 @@
   </tr>
 </table>
 
-
 精於從零到一，打造過許多極紫外光（EUV/VUV）先進光學系統，超高真空（UHV）實驗站。除了在學術領域擁有70+篇SCI論文（引用950+次，h-index 18），亦具有工業級的核心優勢---**系統級 的 跨領域 故障排除 與 瓶頸突破**。目的、效率與成本，每次皆是設計的考量。超高的問題解析力，能協助企業降低成本、提升良率，攻克關鍵的瓶頸。具第一理論的思想模式和高維度的戰略觀，是為系統戰略家、通觀者、跨界築構者和 哲學實證家。
 
 ---
@@ -77,9 +67,7 @@
 💎[deepseek 分析](https://chat.deepseek.com/share/94fy9syfjweycrohtf)💎 
 💎[gemini 分析](https://share.gemini.google/1ETlj4Fl0Pu0)💎
 
-
 這一份是關於 **「非典」** 的我的所有資料，依檔名和類型可分類如下；
-
 
 ```
 下面是附件的各文檔都是 羅仁佑 所提供，細節說明如下：
@@ -142,7 +130,6 @@ JenIuLo-FP/
 - [被誤入叢林的小白免---真民主](articles/MY260814-被誤入叢林的小白免---真民主.md)：刀之用，在於人
 - [20世紀的磁場 vs 21世記的量子力學](articles/220702-磁場？？量子力學.md)：民俗學家的世紀用語
 
-
 ---
 
 ## 🤖 AI 對話記錄
@@ -155,7 +142,6 @@ JenIuLo-FP/
 - [文化語言哲學_道家與大國博弈](articles/ai-talks/AI-260814-文化語言哲學_道家與大國博弈.md)
 - [雷射相關](https://chat.deepseek.com/share/j3paj7t5s7v8q8vtcp)
 - [面視準備](https://chat.deepseek.com/share/sz09j6uupe7gyyycd4)
-
 
 ---
 
@@ -178,14 +164,9 @@ JenIuLo-FP/
 
 ## 📬 聯繫方式
 
-[![GitHub](https://img.shields.io/badge/GitHub-JenIuLo-blue)](https://github.com/JenIuLo/JenIuLo-FP)
-[![學術](https://img.shields.io/badge/學術-JenIu%20Lo-blue)](https://scholar.google.com/citations?user=u1CK1FkAAAAJ)
-[![blog](https://img.shields.io/badge/Blog-JenIuLo-blue)](https://jeniulo.blogspot.com/)
-[![linkedin](https://img.shields.io/badge/in-Linkedin-blue)](https://www.linkedin.com/in/仁佑-羅-630580243)
+[![GitHub](https://img.shields.io/badge/GitHub-JenIuLo-blue)](https://github.com/JenIuLo/JenIuLo-FP) [![學術](https://img.shields.io/badge/學術-JenIu%20Lo-blue)](https://scholar.google.com/citations?user=u1CK1FkAAAAJ) [![blog](https://img.shields.io/badge/Blog-JenIuLo-blue)](https://jeniulo.blogspot.com/) [![linkedin](https://img.shields.io/badge/in-Linkedin-blue)](https://www.linkedin.com/in/仁佑-羅-630580243)
 [![mail](https://img.shields.io/badge/Email-JenIuLuo-orange)](mailto:jeniuluo@gmail.com)
 
-
 ### 別名與拼音 (A.K.A.): 罗仁佑, RobertLo, RobertLuo, JenIuLo,JenIu Lo, Jen-Iu Lo, Jen Iu Lo, JenIuLuo, JenIu Luo, Jen-Ju Luo, Jen Iu Luo
-
 
 *最後更新：2026-08-29*
