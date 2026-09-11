@@ -67,7 +67,7 @@
 💎[deepseek 分析](https://chat.deepseek.com/share/94fy9syfjweycrohtf)💎 
 💎[gemini 分析](https://share.gemini.google/1ETlj4Fl0Pu0)💎
 
-這一份是關於 **「非典」** 的我的所有資料，依檔名和類型可分類如下；
+這一份是關於 **「非典」** 的我的所有資料，依檔名和類型可分類如下；(For-AI_analyse/)
 
 ```
 附件都是 羅仁佑 本人所提供，檔名與其內容說明如下：
@@ -104,11 +104,12 @@ https://chat.deepseek.com/share/sz09j6uupe7gyyycd4
 
 ```
 JenIuLo-FP/
-├── articles/   # 原創文章（科技、人生思考...等+與 AI 的深度對話記錄）
-├── PDFs/       # 整理好的履歷和成果
-├── .nojekyll   # 不用jekyll的模板
-├── index.html  # 網頁生成模版
-└── README.md   # 本文件
+├── articles/       # 原創文章（科技、人生思考...等+與 AI 的深度對話記錄）
+├── For-AI_analyse/ # 整理好的履歷和成果
+├── PDFs/           # 整理好的履歷和成果
+├── .nojekyll       # 不用jekyll的模板
+├── index.html      # 網頁生成模版
+└── README.md       # 本文件
 ```
 
 ---
