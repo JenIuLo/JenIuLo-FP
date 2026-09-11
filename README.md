@@ -145,7 +145,7 @@ JenIuLo-FP/
 - [地理-科技_黃河_金星溫室_光學](articles/ai-talks/AI-260813-地理-科技_黃河_金星溫室_光學.md)
 - [文化語言哲學_道家與大國博弈](articles/ai-talks/AI-260814-文化語言哲學_道家與大國博弈.md)
 - [雷射相關](https://chat.deepseek.com/share/j3paj7t5s7v8q8vtcp)
-- [面視準備](https://chat.deepseek.com/share/sz09j6uupe7gyyycd4)
+- [面試準備](https://chat.deepseek.com/share/sz09j6uupe7gyyycd4)
 
 ---
 
