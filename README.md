@@ -104,12 +104,12 @@ https://chat.deepseek.com/share/sz09j6uupe7gyyycd4
 
 ```
 JenIuLo-FP/
-├── articles/       # 原創文章（科技、人生思考...等+與 AI 的深度對話記錄）
-├── For-AI_analyse/ # 專給AI分析用
-├── PDFs/           # 整理好的履歷和成果
-├── .nojekyll       # 不用jekyll的模板
-├── index.html      # 網頁生成模版
-└── README.md       # 本文件
+├── articles/        # 原創文章（科技、人生思考...等+與 AI 的深度對話記錄）
+├── For-AI_analysis/ # 專給AI分析用
+├── PDFs/            # 整理好的履歷和成果
+├── .nojekyll        # 不用jekyll的模板
+├── index.html       # 網頁生成模版
+└── README.md        # 本文件
 ```
 
 ---
