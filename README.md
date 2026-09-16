@@ -67,7 +67,7 @@
 💎[deepseek 分析](https://chat.deepseek.com/share/94fy9syfjweycrohtf)💎 
 💎[gemini 分析](https://share.gemini.google/1ETlj4Fl0Pu0)💎
 
-這一份是關於 **「非典」** 的我的所有資料，依檔名和類型可分類如下：[壓縮檔](./For-AI_analyse.zip)
+這一份是關於 **「非典」** 的我的所有資料，依檔名和類型可分類如下：[壓縮檔](./blob/main/For-AI_analyse.zip)
 
 ```
 附件都是 羅仁佑 本人所提供，檔名與其內容說明如下：
