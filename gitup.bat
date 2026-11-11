@@ -25,5 +25,5 @@ echo.
 echo !ESC![101;93m===== 3/3 上傳更新 ===== 開始!ESC![0m
 git push
 echo !ESC![92m===== 3/3 上傳更新 ===== 結束!ESC![0m
-timeout 10
-exit
+::timeout 10
+::exit
